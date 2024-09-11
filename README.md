@@ -58,4 +58,5 @@ To run the program locally, you need to:
 -   clone the repository
 -   `cd` into it
 -   run `npm install` to install dependency
+-   create `.env` file in the root folder and put your backend API base URL there. it should be something like `VITE_API_URL=http://localhost:3000`
 -   run `npm run dev` to run the program locally. It should serve you on `http://localhost:5173`
